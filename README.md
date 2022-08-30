@@ -1,4 +1,4 @@
-## Second assignment on javascript
+## Third assignment on javascript
 
 ### prompt function is used to get input from user. 
 
